@@ -1,0 +1,5 @@
+{
+  "name": "Passman",
+  "description": "A sleek, futuristic, and secure password manager that works entirely offline. It uses strong cryptography to protect your data locally in your browser.",
+  "requestFramePermissions": []
+}

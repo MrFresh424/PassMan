@@ -1,0 +1,18 @@
+{
+  "short_name": "Passman",
+  "name": "Passman - Secure Vault",
+  "description": "A sleek, futuristic, and secure password manager that works entirely offline. It uses strong cryptography to protect your data locally in your browser.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0a0f1f",
+  "background_color": "#0a0f1f"
+}
